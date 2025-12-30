@@ -1,0 +1,5 @@
+pages\AmazonHomePage.class
+tests\DonatovTests.class
+pages\AmazonSearchResultsPage.class
+tests\AmazonTests.class
+pages\DonatovHomePage.class
